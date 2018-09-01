@@ -1,3 +1,1 @@
-# TrucoUy
-
-Versión 0.0.0
+Truco Uy
